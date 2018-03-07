@@ -1,5 +1,5 @@
-# go-deck
+# go-mini-projects
 
-[![Build Status](https://travis-ci.org/dsharrison/go-deck.svg?branch=master)](https://travis-ci.org/dsharrison/go-deck)
+[![Build Status](https://travis-ci.org/dsharrison/go-mini-projects.svg?branch=master)](https://travis-ci.org/dsharrison/go-mini-projects)
 
-This is a simple workshop to get started with some go fundamentals. It includes a deck of cards with some basic functionality along with a basic test suite.
+This is a simple workshop to get started with some go fundamentals.
